@@ -1,0 +1,23 @@
+{
+  "network_id": 0,
+  "protocol_version": 0,
+  "service_id": 128,
+  "message_id": 0,
+  "body": {
+    "exchange_id": "2",
+    "exchange_name": "Kuna",
+    "trade_symbol": "BTC/USD",
+    "trade_asset": "btc_usd",
+    "trade_currency": "BTC",
+    "trade_type": "CUR",
+    "trade_is_fiat": "0",
+    "trade_exchange_id": "Kuna",
+    "trade_exchange_ts": "19425637",
+    "trade_exchange_price": "740026",
+    "trade_exchange_amount": "1000000",
+    "trade_exchange_total": "7400260000",
+    "trade_exchange_direction": "BUY",
+    "addition_data": "none"
+  },
+  "signature": "a523d58b3bc4bd8371c728e60449c7318cc64c0f720f104fa55d83531fc70db0794b2bbf623a78288b332efbe5b8171b038cd06cedf2f3d112c46c021dafe903"
+}
