@@ -5,7 +5,7 @@ version = "0.1.0"
 authors = ["yarik <yaroslav.stepanchuk@trdata.com>"]
 
 [dependencies]
-exonum = { version = "0.9.0", path = "../../exonum" }
+exonum = { version = "0.9.0" }
 failure = "=0.1.1"
 serde = "1.0.0"
 serde_derive = "1.0.0"
